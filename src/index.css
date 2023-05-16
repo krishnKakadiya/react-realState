@@ -26,6 +26,10 @@ a {
 }
 .paddings {
   padding: 1.5rem;
+
+
+
+  
 }
 
 .innerWidth {
@@ -68,6 +72,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: flex-end;
+  
 }
 
 .primaryText {
