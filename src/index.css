@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;600&display=swap');
 
 
 :root {
@@ -16,8 +16,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
   scroll-behavior: smooth;
+  font-family: 'Manrope', sans-serif;
 }
 a {
   color: inherit;
